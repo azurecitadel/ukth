@@ -3,8 +3,8 @@
 ## Agenda - 08/12/2021
 
 | **Start**	| **End**	| **Len**	| **Lvl**	| **Title**	| **Presenter**	|
-|---|---|---|---|:--|:---|
-| 09:30 | 09:45 | 15 | 100 | Intro | Pratim Das |
+|:---:|:---:|:---:|:---:|:--|:---|
+| 09:30 | 09:45 | 15 | 100 | [Intro](https://github.com/azurecitadel/ukth#readme) | Pratim Das |
 | 09:45 | 10:00 | 15 | 200 | Quiz | Ethan Jones and Arshia Bhatnagar |
 | 10:00 | 10:15 | 15 | 100 | New Starter Intros | Ethan Jones and Arshia Bhatnagar |
 | 10:15 | 10:45 | 30 | 300 | Enterprise Scale for AKS | Gordon Byers and Keith Howling |
