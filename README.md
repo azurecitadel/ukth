@@ -16,3 +16,4 @@ Each of the topics below follows the same flow:
 |:---:|:---|
 | November 8th, 2021 | [Hands-on with Dapr](https://github.com/liammoat/ukth-appinnovation-dapr-quickstart)
 | February 7th, 2022 | [Hands-on with Container Apps](https://github.com/kevingbb/ukth-appinn-containerapps-orderapi)
+| March 7th, 2022 | [Hands-on with Mock Testing Logic Apps](https://github.com/poornabavapalli/logicappsworkflowmocktest)
